@@ -1,0 +1,7 @@
+/home/dsp520/Desktop/TM test/CMakeFiles/install.dir
+/home/dsp520/Desktop/TM test/CMakeFiles/list_install_components.dir
+/home/dsp520/Desktop/TM test/CMakeFiles/rebuild_cache.dir
+/home/dsp520/Desktop/TM test/CMakeFiles/test_tm_driver.dir
+/home/dsp520/Desktop/TM test/CMakeFiles/install/strip.dir
+/home/dsp520/Desktop/TM test/CMakeFiles/install/local.dir
+/home/dsp520/Desktop/TM test/CMakeFiles/edit_cache.dir

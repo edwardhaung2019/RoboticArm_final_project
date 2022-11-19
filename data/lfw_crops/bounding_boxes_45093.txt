@@ -1,0 +1,18 @@
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0001 .png 59 45 120 120
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0002.png 26 55 149 221
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0003.png 66 23 138 118
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0004.png 29 48 132 184
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0005.png 59 28 117 108
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0006.png 56 44 127 136
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0007.png 50 67 135 181
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0008.png 59 44 142 154
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Charlene\Charlene_Choi_0009.png 32 42 126 171
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0001.png 14 61 126 217
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0002.png 50 54 136 175
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0003.png 57 58 151 182
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0004.png 98 35 177 141
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0005.png 109 28 174 121
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0006.png 62 57 150 184
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0007.png 48 47 127 154
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0008.png 48 63 177 232
+C:\Users\edwar\Desktop\Courses\電腦視覺\CVHW3\final_project\data\lfw_crops\Gillian\Gillian_Chung_0009.png 36 37 128 167
